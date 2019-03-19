@@ -1,0 +1,36 @@
+table 
+{
+  border-collapse: collapse;
+  width: 90%;
+  border: 1px solid #191970;
+  font-family: "Lato";
+}
+
+td 
+{
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even)
+{
+	background-color: #f1f1f7;
+}
+
+tr:nth-child(odd)
+{
+	background-color: #e2e2e5;
+}
+
+th 
+{
+  background-color: #191970;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.textLeft
+{
+	text-align: left;
+}

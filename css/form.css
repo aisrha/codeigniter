@@ -1,0 +1,39 @@
+.box
+{
+  background-color: #F5F5F5;
+  width: 80%;
+  border: 5px solid navy;
+  padding: 25px;
+  margin: auto;
+}
+.rowTitle
+{
+	width: 230px;
+}
+select
+{
+	width: 212px;
+}
+
+#searchValueBox
+{
+	width: 70%;
+	height: 30px;
+}
+
+.searchValueBox
+{
+	width: 25%;
+	height: 30px;
+}
+
+.selectBox
+{
+	width: 25%;
+	height: 30px;
+}
+
+.inputRow
+{
+	width: 100%;
+}

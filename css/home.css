@@ -1,0 +1,71 @@
+a
+{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: purple;
+}
+
+#jumbotron
+{
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  font-family: "Oswald";
+  font-weight: bold;
+}
+
+.odd
+{
+  background-color: navy;
+  color: white;
+}
+
+.even
+{
+  background-color: lightgray;
+  color: navy;
+}
+
+img
+{
+  height: 100px;
+  width: 350px;
+}
+
+body
+{
+  font-family: "Lato", sans-serif;
+}
+
+h3
+{
+  font-family: "Oswald";
+  font-size: 23px;
+}
+
+table
+{
+  width: 60%;
+}
+
+td
+{
+  width: 20%;
+}
+
+/* COLUMN LAYOUT */
+
+* 
+{
+  box-sizing: border-box;
+}
+
+.container
+{
+  margin: auto;
+  width: 80%;
+}

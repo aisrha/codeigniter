@@ -1,0 +1,185 @@
+#button
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 5px 32px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 100%;
+  font-family: "Lato";
+}
+
+#button:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+#buttonForm
+{
+  background-color: #e2e2e5;
+  padding: 5px 32px;
+  border: 1px solid gray;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 20%;
+  font-family: "Lato";
+}
+
+#buttonForm:hover 
+{
+  background-color: #f5f5f5;
+}
+
+.buttonNavGroup .buttonNav
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 12px 32px;
+  border: 1px solid black;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  float: left;
+  width: 50%;
+  font-family: "Oswald";
+  font-size: 16px;
+}
+
+.buttonNavGroup .buttonNav:not(:last-child) 
+{
+  border-right: none;
+  color: black;
+}
+
+.buttonNavGroup .buttonNav:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+#buttonSearch
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 5px 5px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: "Lato";
+  width: 23%;
+  font-size: 16px;
+}
+
+#buttonSearch:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.tabNav .tab
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 12px 32px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 50%;
+  font-family: "Oswald";
+  font-size: 16px;
+  display: block;
+}
+
+.tabNav .tab:not(:last-child) 
+{
+  color: black;
+}
+
+.tabNav .tab:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.buttonSwGroup .buttonSw
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 12px 32px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 100%;
+  font-family: "Oswald";
+  font-size: 16px;
+}
+
+.buttonSwGroup .buttonSw:not(:last-child) 
+{
+  border-right: none;
+  color: black;
+}
+
+.buttonSwGroup .buttonSw:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.buttonHwGroup .buttonHw
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 12px 32px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 50%;
+  font-family: "Oswald";
+  font-size: 16px;
+  display: block;
+}
+
+.buttonHwGroup .buttonHw:not(:last-child) 
+{
+  color: black;
+}
+
+.buttonHwGroup .buttonHw:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}
+
+#buttonTerminal
+{
+  background-color: #e2e2e5;
+  color: black;
+  padding: 5px 32px;
+  border: 1px solid #040d0c;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 50%;
+  font-family: "Lato";
+}
+
+#buttonTerminal:hover 
+{
+  background-color: #f5f5f5;
+  color: black;
+}

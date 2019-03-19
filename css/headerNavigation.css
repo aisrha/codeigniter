@@ -1,0 +1,66 @@
+body
+{
+  background-image: url('http://localhost/codeigniter/images/bg2.png');
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+#icon
+{
+  font-size:23px;
+}
+
+.navTitle
+{
+  font-family: "Oswald", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+ul.topnav
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 5px 5px;
+  overflow: hidden;
+  background-color: black;
+  position: sticky;
+  top: 0;
+}
+
+ul.topnav li
+{
+  float: left;
+  height: auto;
+  width: auto;
+}
+
+ul.topnav li a
+{
+  display: block;
+  color: white; /* icon color */
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  line-height: auto;
+}
+
+ul.topnav li a:hover
+{
+  background-color: lightblue;
+  color: black; /* icon color */
+}
+
+ul.topnav li.right
+{
+  float: right;
+}
+
+@media screen and (max-width: 600px)
+{
+  ul.topnav li.right, 
+  ul.topnav li
+  {
+    float: none;
+  }
+}
