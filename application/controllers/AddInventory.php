@@ -1,3 +1,4 @@
+// call CodeIgniter's default Constructor 22222
 <?php
 	class AddInventory extends CI_Controller 
 	{
