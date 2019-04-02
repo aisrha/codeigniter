@@ -1,4 +1,6 @@
 <?php
+
+      // Default constructor
 	class AddInventory extends CI_Controller 
 	{
 		// Default constructor
